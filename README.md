@@ -1,5 +1,5 @@
 
-#Use of neural network for gravitational lens
+# Use of neural network for gravitational lens
 <img src="header.png">
 Deep learning is the electricity of the twenty-first century. With the development of self-attention mechanisms, we can create powerful artificial neural network models that can learn essential morphological traits as part of their latent representation.
 
